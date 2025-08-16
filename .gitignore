@@ -208,3 +208,4 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,windows,c++,intellij
+to_be_gitignore.txt
